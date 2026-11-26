@@ -33,13 +33,3 @@ I'm **Shreyansh Gupta**, a final-year B.Tech student at Shri G. S. Institute of 
 
 **e-Yantra Summer Internship, IIT Bombay**: built 10+ Webots simulation modules and three custom robots from CAD to PROTO, with PID control and OpenCV vision. Ranked 6th of 800+ teams in eYRC 2024–25.
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" alt="Shreyansh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Byte-Blender&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Blender&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Byte-Blender&theme=tokyonight&hide_border=true" />
-</p>
